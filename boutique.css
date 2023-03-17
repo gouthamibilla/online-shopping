@@ -33,4 +33,11 @@ p{
 }
 h4{
   margin-top: 20px;
+  color: black;
+}
+h1{
+  color: black;
+}
+.modal-body size-right{
+  padding-right: 60%;
 }
